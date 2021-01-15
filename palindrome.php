@@ -75,7 +75,7 @@ Palindrome or Not Palindrome String Check</title>
                 <div class="shipping">
                 <div class="card">
                 <div class="card-header">
-                    <h2 class=" card-header text-center">Factorial Calculator </h2>
+                    <h2 class=" card-header text-center">Palindrome or Not Palindrome String Check </h2>
                 </div>
                 <div class="card-body">
                    <form action=" <?php echo $_SERVER['PHP_SELF']; ?> " method="POST">
@@ -87,8 +87,8 @@ Palindrome or Not Palindrome String Check</title>
                     <div class="form-row">
 
                         <div class="col-md-6 mb-3">
-                        <label for="validationDefault01"><strong>Please Enter a Number</strong></label>
-                        <input name="number" type="text" class="form-control" placeholder="Enter a number">
+                        <label for="validationDefault01"><strong>Please Enter a String</strong></label>
+                        <input name="number" type="text" class="form-control" placeholder="Enter a string">
                         </div>
                         
                     </div>
