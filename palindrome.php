@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Factorial Calculator</title>
+    <title>
+Palindrome or Not Palindrome String Check</title>
 
     <style>
 
