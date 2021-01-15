@@ -17,7 +17,9 @@
             padding-top: 20px;
         
         }
+
         .body{
+            
             margin: 0;
             padding: 0;
         }
